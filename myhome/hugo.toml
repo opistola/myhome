@@ -1,0 +1,5 @@
+baseURL = 'https://www.otnip.eu/'
+languageCode = 'en-us'
+title = 'Otnip - a place to share with the world!!!'
+themesDir = 'themes'
+theme = 'myhome'
